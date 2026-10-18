@@ -1,0 +1,6 @@
+export const sample=()=>({version:1,title:'CampusSort — practice pitch',sample:true,
+pitch:'CampusSort helps students sort campus waste.\nOur prototype achieved 94% accuracy on 50 labeled images.\nThe tool reduces sorting time by 70%.\nOur dashboard works offline.\nWe plan to support every campus bin by next semester.',
+claims:[{id:'c1',text:'Our prototype achieved 94% accuracy on 50 labeled images.',sourceId:'s1'},{id:'c2',text:'The tool reduces sorting time by 70%.',sourceId:'s2'},{id:'c3',text:'Our dashboard works offline.',sourceId:'s3'}],
+sources:[{id:'s1',title:'Pilot run note',type:'measured',excerpt:'FICTIONAL SAMPLE: 45 of 50 labeled images were classified correctly: 90% accuracy. Images were captured in controlled lighting. This small sample does not establish performance on other campuses.',url:''},
+{id:'s2',title:'Timing experiment plan',type:'planned',excerpt:'FICTIONAL SAMPLE: We plan to compare median sorting time on 10 trials. No timing experiment has been run yet.',url:''},
+{id:'s3',title:'Offline test note',type:'measured',excerpt:'FICTIONAL SAMPLE: The dashboard displayed previously loaded records with network disabled. New remote data could not be fetched. Test scope: dashboard only.',url:''}],rehearsals:{}});

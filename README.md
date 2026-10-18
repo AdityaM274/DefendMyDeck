@@ -40,4 +40,5 @@ CampusSort and all supplied sample results are fictional. Automated tests and ag
 
 ## Development status
 
-Initial working prototype, 18 October 2026. Six official Devpost skills were inspected and used from pinned source revision `a0f065781873e8a7ed9a9a705a8dafa6a0810439`. Planning defaults were inferred under the user's explicit instruction to start building; learner review remains pending. No public repository, demo video or final competition submission yet.
+Initial working prototype, 18 October 2026. Six official Devpost skills were inspected and used from pinned source revision `a0f065781873e8a7ed9a9a705a8dafa6a0810439`. Planning defaults were inferred under the user's explicit instruction to start building; learner review remains pending. Public repository: https://github.com/AdityaM274/DefendMyDeck . A captioned walkthrough from actual app screens has been prepared; public video hosting and final competition submission remain pending. Code is available under the MIT license.
+
